@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="AIOps Insights Workspace App Config">963c558c3a2a12106f15ac14e365cbf6</app_config>
+        <description/>
+        <extension_point/>
+        <fields>notificationTrayDisplayed,notificationQueue,notificationTrayIsLoading,notificationUIRoute,toastItem</fields>
+        <icon/>
+        <name>Notification tray</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id>wsSidepanel</parent_macroponent_composition_element_id>
+        <route_type>notificationtray</route_type>
+        <screen_type display_value="Notification tray">da3c558ce92a12103258f96ddc442dee</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-13 13:58:45</sys_created_on>
+        <sys_id>1e3c558cb22a1210c3d9f60d0f833eed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notification tray</sys_name>
+        <sys_package display_value="AIOps Insights" source="x_1247180_aiops_0">9049d988532a1210b1895eb0a0490e5f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AIOps Insights">9049d988532a1210b1895eb0a0490e5f</sys_scope>
+        <sys_update_name>sys_ux_app_route_1e3c558cb22a1210c3d9f60d0f833eed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-13 13:58:45</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=1e3c558cb22a1210c3d9f60d0f833eed"/>
+</record_update>

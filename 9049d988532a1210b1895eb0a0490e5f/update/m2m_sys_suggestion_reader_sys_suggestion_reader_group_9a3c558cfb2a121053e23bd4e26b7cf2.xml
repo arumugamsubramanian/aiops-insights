@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_suggestion_reader_sys_suggestion_reader_group">
+    <m2m_sys_suggestion_reader_sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <reader_requested_fields/>
+        <reader_searchable_fields/>
+        <sys_class_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-13 13:58:45</sys_created_on>
+        <sys_id>9a3c558cfb2a121053e23bd4e26b7cf2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="AIOps Insights" source="x_1247180_aiops_0">9049d988532a1210b1895eb0a0490e5f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AIOps Insights">9049d988532a1210b1895eb0a0490e5f</sys_scope>
+        <sys_suggestion_reader_group_id display_value="Popular Search Reader Group for Starter Workspace AI Search Configuration">5a3c558cf22a1210b8ff37a200ebd9f3</sys_suggestion_reader_group_id>
+        <sys_suggestion_reader_id display_value="Popular Query Reader">ddf6d5b77320001052c7d5fdbdf6a76f</sys_suggestion_reader_id>
+        <sys_update_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group_9a3c558cfb2a121053e23bd4e26b7cf2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-13 13:58:45</sys_updated_on>
+    </m2m_sys_suggestion_reader_sys_suggestion_reader_group>
+</record_update>

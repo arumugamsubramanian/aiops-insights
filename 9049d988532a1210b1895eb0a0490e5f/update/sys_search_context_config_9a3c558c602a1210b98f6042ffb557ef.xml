@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <collapse_attachment>false</collapse_attachment>
+        <enable_exact_match>true</enable_exact_match>
+        <evam_definition/>
+        <genius_results_limit/>
+        <hit_highlighting>false</hit_highlighting>
+        <log_signals_server_side>false</log_signals_server_side>
+        <name>AIOps Insights Workspace - Workspace Search</name>
+        <search_engine>zing</search_engine>
+        <search_profile/>
+        <search_results_limit>10</search_results_limit>
+        <show_tab_counts>false</show_tab_counts>
+        <spell_check>false</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-13 13:58:45</sys_created_on>
+        <sys_id>9a3c558c602a1210b98f6042ffb557ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AIOps Insights Workspace - Workspace Search</sys_name>
+        <sys_package display_value="AIOps Insights" source="x_1247180_aiops_0">9049d988532a1210b1895eb0a0490e5f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AIOps Insights">9049d988532a1210b1895eb0a0490e5f</sys_scope>
+        <sys_update_name>sys_search_context_config_9a3c558c602a1210b98f6042ffb557ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-13 13:58:45</sys_updated_on>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=9a3c558c602a1210b98f6042ffb557ef"/>
+</record_update>

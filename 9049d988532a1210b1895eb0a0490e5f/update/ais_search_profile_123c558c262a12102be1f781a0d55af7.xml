@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for AIOps Insights Workspace</description>
+        <exclude_from_evaluation>false</exclude_from_evaluation>
+        <genius_result_assembly/>
+        <label>aiops-insights-workspace Search Profile</label>
+        <name>x_1247180_aiops_0_uadealp_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <qna_model_id/>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-13 13:58:45</sys_created_on>
+        <sys_id>123c558c262a12102be1f781a0d55af7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>aiops-insights-workspace Search Profile</sys_name>
+        <sys_package display_value="AIOps Insights" source="x_1247180_aiops_0">9049d988532a1210b1895eb0a0490e5f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AIOps Insights">9049d988532a1210b1895eb0a0490e5f</sys_scope>
+        <sys_update_name>ais_search_profile_123c558c262a12102be1f781a0d55af7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-13 13:58:50</sys_updated_on>
+    </ais_search_profile>
+</record_update>

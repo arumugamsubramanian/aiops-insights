@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_synonym_dictionary">b29df374c7531010d1cfd9795cc260cd</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="aiops-insights-workspace Search Profile">123c558c262a12102be1f781a0d55af7</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-13 13:58:46</sys_created_on>
+        <sys_id>9a3c558c292a121077b12b56fbd489f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>default_synonym_dictionary.aiops-insights-workspace Search Profile</sys_name>
+        <sys_package display_value="AIOps Insights" source="x_1247180_aiops_0">9049d988532a1210b1895eb0a0490e5f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AIOps Insights">9049d988532a1210b1895eb0a0490e5f</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_9a3c558c292a121077b12b56fbd489f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-13 13:58:46</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>
